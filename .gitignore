@@ -14,6 +14,13 @@ export_templates/
 # Ignore temporary build files.
 build/
 bin/
+assets/
+*.png	
+*.import
+*.uid
+*.tmp
+*.ogv
+
 
 # Ignore user-specific editor settings and layout.
 # This ensures that different developers can have their own settings without conflict.
